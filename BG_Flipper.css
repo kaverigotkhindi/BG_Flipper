@@ -1,0 +1,22 @@
+body{
+    /* display:flex; */
+    /* justify-content: center; */
+    /* align-items: center; */
+    margin-left:50%;
+    height: 100vh;
+  
+    height: 200px;
+}
+#bg-color-name{
+    font-family:  monospace;
+}
+button{
+    color:rgb(255,255,255);
+    background:rgb(228, 70, 70); 
+    height: 40px;
+    width: 100px;
+    font-family:  monospace;
+}
+
+
+
